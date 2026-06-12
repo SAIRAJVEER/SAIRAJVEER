@@ -4,17 +4,24 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm DataSpieler 🧠</h1>
+<h1 align="center">👋 Hi, I'm Sai Rajveer </h1>
 
 <!-- Matrix-style animated intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data;I+love+coding+from+home+%F0%9F%92%BB+%F0%9F%8F%A0" alt="Matrix typing animation" />
 </p>
 
-<!-- Subtitle with Germany flag -->
+<!-- Subtitle with Indian flag -->
 <h3 align="center">
-  BI Analyst • Power BI Enthusiast • Data Storyteller from Germany
-  <img src="https://flagcdn.com/w40/de.png" width="20" alt="Germany Flag">
+  Data Analyst • Power BI Enthusiast • Data Storyteller from India
+  <img
+  src="https://flagcdn.com/16x12/in.png"
+  srcset="https://flagcdn.com/32x24/in.png 2x,
+    https://flagcdn.com/48x36/in.png 3x"
+  width="16"
+  height="12"
+  alt="India">
+
 </h3>
 
 <!-- Workspace image -->
