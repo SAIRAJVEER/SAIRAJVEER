@@ -8,7 +8,7 @@
 
 <!-- Matrix-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data;I+love+coding+from+home+%F0%9F%92%BB+%F0%9F%8F%A0" alt="Matrix typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data+reading;I+love+coding+from+home+%F0%9F%92%BB+%F0%9F%8F%A0" alt="Matrix typing animation" />
 </p>
 
 <!-- Subtitle with Indian flag -->
@@ -33,9 +33,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate data analyst focused on Business Intelligence solutions.  
-I love turning complex data into simple, impactful, and visually stunning dashboards.  
-Currently experimenting with custom HTML + JS visuals inside Power BI.
+Hi, I'm Sai Rajveer, an aspiring Data Analyst with a strong interest in SQL, Python, Tableau, and Power BI. I'm currently expanding my skills in AWS, Azure, and Databricks while building real-world data analytics projects. My goal is to turn data into actionable insights and create impactful business solutions.
+
 
 ---
 ## 💼 Tools & Technologies
@@ -51,11 +50,6 @@ Currently experimenting with custom HTML + JS visuals inside Power BI.
 ### 📚 Libraries & Frameworks
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-117A65?style=for-the-badge&logo=data&logoColor=white)
 
 ---
 
@@ -67,22 +61,21 @@ Currently experimenting with custom HTML + JS visuals inside Power BI.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Command Prompt](https://img.shields.io/badge/Command%20Prompt-000000?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
 
 ---
 
 ## 🚀 Currently Working On
 
-- Animated custom visuals in Power BI using HTML + JS 🎯  
-- Interactive dashboards for operational KPIs 📊  
-- Automating reports using Python + SQL 🔄
+🔭 I'm currently working on:
+
+* Data Analytics projects using SQL and Python
+* Interactive dashboards with Tableau and Power BI
+* Data cleaning and analysis using Pandas
+* Learning AWS, Azure, and Databricks
+* Building my Data Analyst portfolio
+
 
 ---
 
