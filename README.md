@@ -76,31 +76,12 @@ Hi, I'm Sai Rajveer, an aspiring Data Analyst with a strong interest in SQL, Pyt
 * Learning AWS, Azure, and Databricks
 * Building my Data Analyst portfolio
 
-
 ---
-
-## 📈 GitHub Stats
-
-<!-- 📊 Tarjeta de resumen con eventos y curva de contribuciones -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dataspieler12345&theme=tokyonight" alt="Profile Summary Card" width="820" />
-</p>
-
----
-
-## 🧰 Most Used Languages & Tools
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dataspieler12345&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm open to collaborating on data, automation, or BI visualization projects.
 
-📩 Email: [yoursocialmediacontact@gmail.com](mailto:yoursocialmediacontact@gmail.com)  
+📩 Email: [rajveersai04@gmail.com](mailto:rajveersai04@gmail.com)  
 
 ---
 ## 🎯 Fun Fact
@@ -113,4 +94,4 @@ I'm open to collaborating on data, automation, or BI visualization projects.
 If you like my work, feel free to ⭐ star this profile or reach out for collaboration.  
 Let’s build meaningful data solutions together! 🚀
 
-<p align="center"><em>© 2025 DataSpieler</em></p>
+<p align="center"><em>© 2026 Sai Rajveer </em></p>
