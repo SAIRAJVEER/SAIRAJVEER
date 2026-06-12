@@ -18,8 +18,8 @@
   src="https://flagcdn.com/16x12/in.png"
   srcset="https://flagcdn.com/32x24/in.png 2x,
     https://flagcdn.com/48x36/in.png 3x"
-  width="16"
-  height="12"
+   width="64"
+  height="48"
   alt="India">
 
 </h3>
